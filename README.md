@@ -3,7 +3,7 @@
 # Horiseon Code Refactor
 
 ## Description
-The purpose of this project was to refactor a webpage to ensure that links are functional, CSS properties are consolidated, and HTML semantics are issued correctly to minimize verbose code usage.
+The purpose of this project was to refactor a webpage to ensure that links are functional, CSS selectors and properties are consolidated, and HTML semantics are issued correctly to minimize verbose code usage.
 
 ## Finished Site
 
